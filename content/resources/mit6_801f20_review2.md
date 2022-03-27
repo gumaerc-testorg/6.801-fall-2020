@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Quizzes
 parent_type: CourseSection
+parent_uid: 176f4c6d-6357-a35a-f192-36fc301d73a6
 resourcetype: Document
 title: '6.801/6.866: Machine Vision, Quiz 2 Review'
 uid: 3ed9a6b6-3fdb-a13e-cbc2-1f423953b85f
