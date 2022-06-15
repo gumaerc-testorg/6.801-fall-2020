@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Calendar of topics for 6.801/6.868 Machine Vision.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
