@@ -5,6 +5,7 @@ file: /courses/6-801-machine-vision-fall-2020/3ed9a6b63fdba13ecbc21f423953b85f_M
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Quizzes
 parent_type: CourseSection

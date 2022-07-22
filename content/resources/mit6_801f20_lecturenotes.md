@@ -5,6 +5,7 @@ file: /courses/6-801-machine-vision-fall-2020/9ec44f69e72995c370b3797818ba01e6_M
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
