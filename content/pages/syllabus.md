@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: Syllabus including course description and grading for 6.801/6.868 Machine
+  Vision.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: c27ba89c-a8da-97da-fb29-75ab43125216
 ---
@@ -12,7 +16,7 @@ Lectures: 2 sessions / wk; 1.5 hrs / session
 Prerequisites
 -------------
 
-_[6.003 Signal Processing](/courses/6-003-signals-and-systems-fall-2011/)_ or permission of the instructor. 
+_[6.003 Signal Processing](/courses/6-003-signals-and-systems-fall-2011)_ or permission of the instructor. 
 
 Course Description
 ------------------

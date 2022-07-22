@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: Project instructions and suggested topics for 6.868 Machine Vision for
+  the graduate version of the course.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 93a1bf7e-1b7d-1201-3541-008038d08ca1
 ---
