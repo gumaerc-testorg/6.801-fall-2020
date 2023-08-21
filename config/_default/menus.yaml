@@ -11,15 +11,19 @@ leftnav:
   name: Lecture Notes
   url: /pages/lecture-notes
   weight: 30
+- identifier: da9cfb8b-4fc4-422b-b2a2-47ffcf648bf2
+  name: Lecture Videos
+  url: /video_galleries/lecture-videos
+  weight: 40
 - identifier: e1b409b7-b855-0094-48d0-163c342fd6f7
   name: Assignments
   url: /pages/assignments
-  weight: 40
+  weight: 50
 - identifier: 176f4c6d-6357-a35a-f192-36fc301d73a6
   name: Quizzes
   url: /pages/quizzes
-  weight: 50
+  weight: 60
 - identifier: 93a1bf7e-1b7d-1201-3541-008038d08ca1
   name: Projects
   url: /pages/projects
-  weight: 60
+  weight: 70
