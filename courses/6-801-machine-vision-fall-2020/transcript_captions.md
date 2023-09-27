@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /courses/6-801-machine-vision-fall-2020/mit6_801f20_lec19_1080p_360p_16_9.mp4
+file: /courses/6-801-machine-vision-fall-2020/transcript_captions.webvtt
 file_type: video/mp4
 image_metadata:
   caption: ''
@@ -14,7 +14,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
 title: 'Lecture 19: Absolute Orientation in Closed Form, Outliers and Robustness,
   RANSAC'
-uid: ef2d372d-ff69-42ef-a68b-d6343e5c229d
+uid: e70646f6-b4bf-4232-b54c-d32666964805
 video_files:
   video_captions_file: /courses/6-801-machine-vision-fall-2020/1ReoLie2XrZc4CEVSc1HyuHtWoK6fZoGJ_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/kigLhcTm_gg/default.jpg
@@ -36,6 +36,3 @@ video_metadata:
     \ may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: kigLhcTm_gg
 ---
-**Description:** This lecture discusses photogrammetry topics and absolute orientation. We will also look at the effects of outliers and algorithms as RANSAC on the robustness of closed-form absolute orientation.
-
-**Speaker:** Berthold Horn
