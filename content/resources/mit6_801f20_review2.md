@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-801-machine-vision-fall-2020/3ed9a6b63fdba13ecbc21f423953b85f_MIT6_801F20_review2.pdf
+file_size: 820587
 file_type: application/pdf
 learning_resource_types:
 - Exams
