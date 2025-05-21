@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /ol-ocw-studio-app/courses/6-801-machine-vision-fall-2020/transcript_captions.webvtt
+file: /courses/6-801-machine-vision-fall-2020/transcript_captions.webvtt
 file_size: null
 file_type: video/mp4
 image_metadata:
