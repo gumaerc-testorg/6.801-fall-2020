@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-801-machine-vision-fall-2020/0099e324ff9b880b73bd006d59ca4876_MIT6_801F20_review1.pdf
+file: /ol-ocw-studio-app/courses/6-801-machine-vision-fall-2020/0099e324ff9b880b73bd006d59ca4876_MIT6_801F20_review1.pdf
 file_size: 343027
 file_type: application/pdf
 learning_resource_types:
